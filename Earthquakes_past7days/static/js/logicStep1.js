@@ -37,13 +37,6 @@ d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geoj
 });
 
 
-
-
-
-
-
-
-
 // // Accessing the Toronto airline routes GeoJSON URL.
 // let torontoHoods = "https://raw.githubusercontent.com/ioshisolis/Mapping_Earthquakes/main/torontoNeighborhoods.json";
 
