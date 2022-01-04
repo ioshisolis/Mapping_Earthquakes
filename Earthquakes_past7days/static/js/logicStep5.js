@@ -108,7 +108,7 @@ L.geoJSON(data, {
   
   // Then we add the earthquake layer to our map.
   earthquakes.addTo(map);
-
+ 
     // Create a legend control object.
     let legend = L.control({
       position: "bottomright"
